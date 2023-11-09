@@ -17,6 +17,7 @@ h1 {
     text-align: center;
     width: 250px;
     color: hsl(300, 43%, 22%);
+    margin-top: 70px;
 }
 
 .feedback {
